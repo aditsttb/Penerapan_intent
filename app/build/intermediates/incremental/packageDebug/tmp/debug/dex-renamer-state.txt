@@ -1,0 +1,7 @@
+#Thu Oct 31 17:07:02 ICT 2019
+base.0=E\:\\GITS\\latihan3\\MyIntentApp\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=E\:\\GITS\\latihan3\\MyIntentApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
